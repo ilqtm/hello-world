@@ -1,5 +1,4 @@
 # hello-world
-first test repo
 
 Learning git and github by doing. Daily commits is the path. Learning is the goal.
 
