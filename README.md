@@ -11,3 +11,15 @@ I've got a lot on deck and am excited about all of it:
 
 
 So long for now.
+
+---
+
+2 months later...
+
+The goal is similar, but there's a little more to show for it.
+
+ - upcoming actual project pages and commits
+ - ansible
+ - bootcamp projects from online resources
+ - let's encrypt implementation
+ - CloudFront and Lambda implementation
